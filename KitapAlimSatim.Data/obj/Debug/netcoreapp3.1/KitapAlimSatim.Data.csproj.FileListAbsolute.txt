@@ -1,0 +1,12 @@
+C:\Users\ask11\Downloads\KitapAlimSatim-master\KitapAlimSatim.Data\bin\Debug\netcoreapp3.1\KitapAlimSatim.Data.deps.json
+C:\Users\ask11\Downloads\KitapAlimSatim-master\KitapAlimSatim.Data\bin\Debug\netcoreapp3.1\KitapAlimSatim.Data.runtimeconfig.json
+C:\Users\ask11\Downloads\KitapAlimSatim-master\KitapAlimSatim.Data\bin\Debug\netcoreapp3.1\KitapAlimSatim.Data.runtimeconfig.dev.json
+C:\Users\ask11\Downloads\KitapAlimSatim-master\KitapAlimSatim.Data\bin\Debug\netcoreapp3.1\KitapAlimSatim.Data.dll
+C:\Users\ask11\Downloads\KitapAlimSatim-master\KitapAlimSatim.Data\bin\Debug\netcoreapp3.1\KitapAlimSatim.Data.pdb
+C:\Users\ask11\Downloads\KitapAlimSatim-master\KitapAlimSatim.Data\obj\Debug\netcoreapp3.1\KitapAlimSatim.Data.csprojAssemblyReference.cache
+C:\Users\ask11\Downloads\KitapAlimSatim-master\KitapAlimSatim.Data\obj\Debug\netcoreapp3.1\KitapAlimSatim.Data.AssemblyInfoInputs.cache
+C:\Users\ask11\Downloads\KitapAlimSatim-master\KitapAlimSatim.Data\obj\Debug\netcoreapp3.1\KitapAlimSatim.Data.AssemblyInfo.cs
+C:\Users\ask11\Downloads\KitapAlimSatim-master\KitapAlimSatim.Data\obj\Debug\netcoreapp3.1\KitapAlimSatim.Data.csproj.CoreCompileInputs.cache
+C:\Users\ask11\Downloads\KitapAlimSatim-master\KitapAlimSatim.Data\obj\Debug\netcoreapp3.1\KitapAlimSatim.Data.dll
+C:\Users\ask11\Downloads\KitapAlimSatim-master\KitapAlimSatim.Data\obj\Debug\netcoreapp3.1\KitapAlimSatim.Data.pdb
+C:\Users\ask11\Downloads\KitapAlimSatim-master\KitapAlimSatim.Data\obj\Debug\netcoreapp3.1\KitapAlimSatim.Data.genruntimeconfig.cache
